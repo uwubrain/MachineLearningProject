@@ -5,6 +5,7 @@ In order for conservationists to monitor biodiversity, study inter-species dynam
 
 ## Objectives & Goals
 The primary goal of this project is to build an automated image classification pipeline with a clear, three-fold prediction objective:
+
 • Binary Classification: The model will first predict whether a given camera trap image contains an animal or is entirely empty (a false trigger).
 
 • Multiclass Classification (Species Identification): For images where an animal is present, the model will classify the specific species of the animal from a predefined set of categories (e.g., lion, zebra, elephant).
